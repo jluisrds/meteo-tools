@@ -1,2 +1,2 @@
 # meteo-tools
-Meteorological utlilities
+Meteorological tools
